@@ -24,9 +24,8 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>com.dlsc.workbenchfx</groupId>
-            <artifactId>workbenchfx-core</artifactId>
-            <version>11.3.1</version>
+            <groupId>org.kordamp.ikonli</groupId>
+            <artifactId>ikonli-materialdesign-pack</artifactId>
         </dependency>
     </dependencies>
 </project>
